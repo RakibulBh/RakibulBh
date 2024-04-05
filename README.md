@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 🤝 I’m looking for help with **Linking Backend with Frontend**
-
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **rakibul.career@gmail.com**
