@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibulbh" alt="rakibulbh" /></a> </p>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **UI/UX**
 
-- 🌱 I’m currently learning **Next.js, TypeScript**
+- 🌱 I’m currently learning **Large scale applications**
 
-- 👯 I’m looking to collaborate on **Fullstack projects**
+- 👯 I’m looking to collaborate on **SaSS Projects**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **rakibul.career@gmail.com**
 
