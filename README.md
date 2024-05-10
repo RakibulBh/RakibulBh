@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibulbh" alt="rakibulbh" /></a> </p>
 
-- 🔭 I’m currently working on **UI/UX**
+- 🔭 I’m currently working on **SaSS applicaitons**
 
-- 🌱 I’m currently learning **Large scale applications**
+- 🌱 I’m currently learning **TypeScript, UI/UX**
 
 - 👯 I’m looking to collaborate on **SaSS Projects**
 
