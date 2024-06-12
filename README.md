@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibulbh" alt="rakibulbh" /></a> </p>
 
-- 🔭 I’m currently working on **SaSS applicaitons**
+- 🔭 I’m currently working on **SaaS applicaitons**
 
 - 🌱 I’m currently learning **TypeScript, UI/UX**
 
-- 👯 I’m looking to collaborate on **SaSS Projects**
+- 👯 I’m looking to collaborate on **SaaS Projects**
 
 - 💬 Ask me about **Frontend development**
 
