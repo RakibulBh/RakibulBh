@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SaaS applicaitons**
 
-- 🌱 I’m currently learning **TypeScript, UI/UX**
+- 🌱 I’m currently learning **C# and System Design**
 
 - 👯 I’m looking to collaborate on **SaaS Projects**
 
